@@ -1,18 +1,26 @@
 # Interactive CV in Power BI
 
-An interactive Power BI report presenting a personal CV as a dynamic, data-driven product - an alternative to a traditional PDF resume.
+An interactive Power BI report transforming a personal CV into a dynamic, data-driven experience - an alternative to a traditional static resume.
 
 ![CV Preview](CV_screen.png)
 
 ---
 
-## Report Structure
+## About
 
-- About Me - personal summary, contact information, and interests
-- Experience - interactive timeline of work history with role and project details
-- Skills - interactive skill selector with descriptions for each tool, soft skills, and languages
-- Education - academic background with filterable subject list by degree level
-- Certifications - completed Udemy courses and academic theses
+This project presents a personal CV as an interactive report, allowing users to explore information dynamically instead of reading a static document.
+
+---
+
+## How It Works
+
+The report is designed as an interactive experience:
+
+- Navigate between sections (About, Experience, Skills, Education, Certifications)
+- Explore career history through an interactive timeline
+- Switch between roles and project details within each position
+- View skills using an interactive selector
+- Drill down into detailed information on demand
 
 ---
 
@@ -20,13 +28,14 @@ An interactive Power BI report presenting a personal CV as a dynamic, data-drive
 
 - Interactive navigation (buttons, bookmarks)
 - Dynamic content based on user selection
-- Skills presented as an interactive selector
+- Timeline-based experience exploration
+- Drill-down and context switching between views
 
 ---
 
 ## Tech Stack
 
-Power BI, DAX, Power Query
+Power BI (data modeling, DAX, Power Query), interactive UX design
 
 ---
 
@@ -34,11 +43,13 @@ Power BI, DAX, Power Query
 
 To explore how Power BI can be used beyond traditional business dashboards - applying data modeling, UX thinking, and interactivity to a personal use case.
 
+Designed to present information in a faster and more engaging way compared to a traditional static CV.
+
 ---
 
 ## How to Open
 
-Download the `.pbix` file and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+Download the `.pbix` file and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
 
 ---
 
